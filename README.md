@@ -75,6 +75,10 @@ This file demonstrates the high-level routing logic used to direct a given appli
 
 This file explains the main architecture of my program and how the whole program functions
 
+### `.png`
+
+4 Screenshots of the backend.py program, illustrating how the backend of the platform works.
+
 ## Notes
 
 - Some parts of the original project are intentionally omitted for privacy and security reasons.
