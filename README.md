@@ -70,7 +70,7 @@ Entry-point and ATS dispatcher.
 
 This file demonstrates the high-level routing logic used to direct a given application URL toward the appropriate automation handler.
 
-### `Whitepaper/Architecture.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
+### `WHITEPAPER.md`
 
 
 This file explains the main architecture of my program and how the whole program functions
